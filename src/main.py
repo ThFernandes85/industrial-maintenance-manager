@@ -68,3 +68,35 @@ def menu():
             print("Opção inválida")
 
 menu()
+
+
+### Future Improvements
+- Add SQLite database
+- Build REST API with FastAPI
+- Create dashboard with Streamlit
+
+---
+
+## 🇧🇷 Visão Geral
+
+Industrial Maintenance Manager é um sistema simples para registrar e acompanhar Ordens de Manutenção (OMs).
+
+Este projeto simula como atividades de manutenção industrial podem ser gerenciadas digitalmente.
+
+### Funcionalidades
+- Criar ordens de manutenção
+- Listar ordens cadastradas
+- Registrar status e data de criação
+
+### Tecnologias
+- Python
+- Armazenamento em JSON
+- Interface via terminal
+
+### Estrutura do projeto
+
+
+### Melhorias futuras
+- Adicionar banco SQLite
+- Criar API com FastAPI
+- Criar dashboard com Streamlit
